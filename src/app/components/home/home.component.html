@@ -1,0 +1,4 @@
+<h1 *ngIf="auth.authenticated()">Welcome!</h1>
+<p *ngIf="auth.authenticated()">This is a sample app using Angular 2 with Auth0 authentication platform.</p>
+
+<h1 *ngIf="!auth.authenticated()">You need to login.</h1>
