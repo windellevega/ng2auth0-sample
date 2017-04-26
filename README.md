@@ -7,7 +7,9 @@ This is an Angular app that implements Auth0 platform.
 
 ### Tools used
 •Angular (at least version 2.0)
+
 •NodeJS
+
 •Auth0
 
 ### Setup Project
