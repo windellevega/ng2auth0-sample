@@ -18,7 +18,7 @@ This is an Angular app that implements Auth0 platform.
 ```sh
 $ cd <project_folder_name>
 ```
-• Install dependencies node modules
+• Install dependencies
 ```sh
 $ npm install
 ```
