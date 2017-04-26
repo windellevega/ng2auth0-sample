@@ -6,23 +6,19 @@ Original Output/Source Code is [here](https://github.com/bradtraversy/ngauth0).
 This is an Angular app that implements Auth0 platform.
 
 ### Tools used
-Angular (at least version 2.0)
-NodeJS
-Auth0
+•Angular (at least version 2.0)
+•NodeJS
+•Auth0
 
 ### Setup Project
-• Clone this repository on your specified repository
-
+• Clone this repository on your specified folder
+•Go inside your project folder
 ```sh
-$ cd <project_folder_name
+$ cd <project_folder_name>
 ```
 • Install dependencies node modules
 ```sh
 $ npm install
-```
-•Go inside your project folder
-```sh
-$ cd <project_folder_name>
 ```
 • Modify `auth.service.ts` inside `src/app/services/` and change Client ID and Domain (refer to your Auth0 client settings).
 ```Typescript
