@@ -1,16 +1,16 @@
 # Angular with Auth0 App
 
-This is my output app upon finishing the [tutorial](https://www.youtube.com/watch?v=i_dHFvi1BJc "Traversy Media Angular 2 and Auth0 Tutorial) of Traversy Media.
+This is my output app upon finishing the [tutorial](https://www.youtube.com/watch?v=i_dHFvi1BJc "Traversy Media Angular 2 and Auth0 Tutorial") of Traversy Media.
 Original Output/Source Code is [here](https://github.com/bradtraversy/ngauth0).
 
 This is an Angular app that implements Auth0 platform.
 
-###Tools used
+### Tools used
 Angular (at least version 2.0)
 NodeJS
 Auth0
 
-#Setup Project
+### Setup Project
 • Clone this repository on your specified repository
 
 ```sh
